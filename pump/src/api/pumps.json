@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "1",
+    "type": "Rotary",
+    "area": "A",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "offset": "3",
+    "pressureMin": 120,
+    "pressureMax": 180,
+    "pressureCurrent": 150,
+    "pressureHistory": [
+    { "time": "12:00", "pressureMin": 120, "pressureMax": 180 },
+    { "time": "13:00", "pressureMin": 120, "pressureMax": 179 },
+    { "time": "14:00", "pressureMin": 120, "pressureMax": 170 },
+    { "time": "15:00", "pressureMin": 120, "pressureMax": 150 },
+    { "time": "16:00", "pressureMin": 120, "pressureMax": 155 }
+  ],
+    "flowRate": "1000",
+    "lastUpdated": "2024-01-20 14:30",
+    "status": "Operational"
+  },
+  {
+    "id": "2",
+    "name": "2",
+    "type": "Rotary",
+    "area": "A",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "offset": "3",
+    "pressureMin": 120,
+    "pressureMax": 180,
+    "pressureCurrent": 150,
+    "pressureHistory": [
+    { "time": "12:00", "pressureMin": 120, "pressureMax": 180 },
+    { "time": "13:00", "pressureMin": 120, "pressureMax": 179 },
+    { "time": "14:00", "pressureMin": 120, "pressureMax": 170 },
+    { "time": "15:00", "pressureMin": 120, "pressureMax": 150 },
+    { "time": "16:00", "pressureMin": 120, "pressureMax": 155 }
+  ],
+    "flowRate": "1000",
+    "lastUpdated": "2024-01-20 14:30",
+    "status": "Operational"
+  },
+  {
+    "id": "3",
+    "name": "3",
+    "type": "Submersible",
+    "area": "B",
+    "latitude": 34.0522,
+    "longitude": -118.2437,
+    "offset": "3",
+    "pressureMin": 120,
+    "pressureMax": 180,
+    "pressureCurrent": 150,
+    "pressureHistory": [
+    { "time": "12:00", "pressureMin": 120, "pressureMax": 180 },
+    { "time": "13:00", "pressureMin": 120, "pressureMax": 179 },
+    { "time": "14:00", "pressureMin": 120, "pressureMax": 170 },
+    { "time": "15:00", "pressureMin": 120, "pressureMax": 150 },
+    { "time": "16:00", "pressureMin": 120, "pressureMax": 155 }
+  ],
+    "flowRate": "1000",
+    "lastUpdated": "2024-01-20 14:30",
+    "status": "Operational"
+  }
+]
